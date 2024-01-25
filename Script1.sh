@@ -6,5 +6,5 @@ echo "Welcome to Young Minds"
 echo "Hello batch-22, We are learning Jenkins"
 echo "Good morning batch-22, We are learning GitHub"
 echo "We are learning branching strategies"
-echo "Hello Good Morning All,Today we learn DevOps"
+echo "Hello Good Morning All,Today we learn  AWS/DevOps"
 
